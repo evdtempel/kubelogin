@@ -1,5 +1,11 @@
 # Change Log
 
+## [0.0.28-1]
+
+### What's Changed
+
+* Rebuild, to have it make use of the latest Go version. As 1.19.6 in 0.0.28 breaks builds with CVE-2023-24538.
+
 ## [0.0.28]
 
 ### What's Changed
